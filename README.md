@@ -1,6 +1,3 @@
-# spark-cnn
-CS848 Final Project (using spark to speed up CNN)
-
 ### Note
 The spark folder contains the final code for the project.
 The cnn folder was firstly used for the creation of the naive approach, and can now be ignored.
